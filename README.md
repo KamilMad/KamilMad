@@ -4,7 +4,7 @@
   </marquee>
 </div>
 
-<div align="left">
+<div align="center">
   <h2>I am interested in a Java Intern or Java Developer position.</h2>
 </div>
 
@@ -12,7 +12,7 @@
   <h2>🚀 Technologies and Tools</h2>
 </div>
   
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
