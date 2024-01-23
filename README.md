@@ -4,7 +4,7 @@
   </marquee>
 </div>
 
-<div align="center">
+<div align="left">
   <h2>I am interested in a Java Intern or Java Developer position.</h2>
 </div>
 
