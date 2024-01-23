@@ -1,11 +1,7 @@
 <div>
-  <h1>
-    Hi there! 👋 I'm Kamil Madej
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-      <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.5s" repeatCount="1" fill="freeze" />
-      <text x="0" y="15" font-size="12" fill="black">Fade In</text>
-    </svg>
-  </h1>
+  <marquee behavior="scroll" direction="right" scrollamount="5">
+    <h1>Hi there! 👋 I'm Kamil Madej</h1>
+  </marquee>
 </div>
 
 <div align="center">
